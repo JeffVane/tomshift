@@ -3,3 +3,4 @@ librosa>=0.10
 soundfile>=0.12
 numpy>=1.24
 music21>=9.0
+gunicorn>=21.0
